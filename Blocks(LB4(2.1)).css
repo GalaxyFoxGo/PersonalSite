@@ -1,0 +1,24 @@
+.B1{
+  display:block;
+  background-color:red;
+  height: 200px;
+  width: 200px;
+  position:absolute;
+}
+.B2{
+  display:block;
+  background-color:blue;
+  height: 200px;
+  width: 200px;
+  position:absolute;
+  top:200px;
+}
+.B3{
+  display:block;
+  background-color:green;
+  height: 200px;
+  width: 200px;
+  position:absolute;
+  top:400px;
+}
+.tab { margin-left: 10px; }
